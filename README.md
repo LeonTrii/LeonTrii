@@ -3,7 +3,7 @@
 ```js
 const aboutMe = {
     Leon: {
-        student: "In high school, wants to major in computer science",
+        student: "In high school. I want to major in computer science",
         pronouns: 'he | him',
         code: ['HTML', 'CSS', 'JavaScript'],
         likes: {
