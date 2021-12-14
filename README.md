@@ -2,7 +2,7 @@
 
 ## About Me
 
-```
+```js
 const aboutMe = {
     Leon: {
         student: "In high school, wants to major in computer science",
