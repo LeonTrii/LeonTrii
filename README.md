@@ -16,6 +16,7 @@ const aboutMe = {
     }
 ```
 
+
 [![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonTrii&count_private=true&show_icons=true&theme=buefy)](https://github.com/LeonTrii)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonTrii&layout=compact&theme=buefy)](https://github.com/LeonTrii)
