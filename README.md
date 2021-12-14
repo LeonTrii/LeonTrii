@@ -7,11 +7,11 @@ const aboutMe = {
         pronouns: 'he | him',
         code: ['HTML', 'CSS', 'JavaScript'],
         likes: {
-            coding: "Started in 2021 from a friend's influence.",
+            coding: "Started in 2021 from a friend's influence",
             listeningToMusic: ['J-Pop', 'K-Pop'],
             myFriends: "I appreciate my friends for helping me get this far!",
-            learning: "I enjoy learning different kinds of technology.",
-            goals: "Achieving my objectives."
+            learning: "I enjoy learning different kinds of technology",
+            goals: "Achieving my objectives"
         }
     }
 ```
