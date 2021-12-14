@@ -1,6 +1,6 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄’𝙢 𝙇𝙚𝙤𝙣 ☆*:.｡. o(≧▽≦)o .｡.:*☆
 
-##About Me
+## About Me
 
 ```
 const aboutMe = {
@@ -22,7 +22,7 @@ const aboutMe = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonTrii&layout=compact&theme=buefy)](https://github.com/LeonTrii)
 
-##View my Personal Portfolio
+## View my Personal Portfolio
 
 [![Personal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=LeonTrii&repo=leontrii.github.io&theme=buefy)](https://github.com/LeonTrii/leontrii.github.io)
 
