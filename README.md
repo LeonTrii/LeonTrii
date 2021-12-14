@@ -1,4 +1,4 @@
-# Hello, I'm Leon 👋
+# 𝙃𝙚𝙡𝙡𝙤, 𝙄’𝙢 𝙇𝙚𝙤𝙣 ☆*:.｡. o(≧▽≦)o .｡.:*☆
 
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning everything
@@ -12,4 +12,4 @@
 
 [![Personal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=LeonTrii&repo=leontrii.github.io&theme=buefy)](https://github.com/LeonTrii/leontrii.github.io)
 
-𝙃𝙚𝙡𝙡𝙤 
+
