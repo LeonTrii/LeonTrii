@@ -1,5 +1,12 @@
 # <div align="center">𝙃𝙚𝙡𝙡𝙤, 𝙄’𝙢 𝙇𝙚𝙤𝙣 ☆*:.｡. o(≧▽≦)o .｡.:*☆</div>
 
+<img width="1119" alt="Screen Shot 2021-12-25 at 1 42 26 PM" src="https://user-images.githubusercontent.com/73002754/147394045-0c724aa7-7500-4398-aefe-35c2120d715f.png">
+
+
+
+
+
+
 ```js
 const aboutMe = {
     Leon: {
