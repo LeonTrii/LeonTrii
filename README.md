@@ -23,7 +23,7 @@ const aboutMe = {
     }
 ```
 
-[![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonTrii&show_icons=true&theme=buefy&count_private=true)](https://github.com/LeonTrii) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonTrii&layout=compact&theme=buefy)](https://github.com/LeonTrii)
+[![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonTrii&show_icons=true&theme=buefy&count_private=true)](https://github.com/LeonTrii [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonTrii&layout=compact&theme=buefy)](https://github.com/LeonTrii)
 
 ## <div align="center">𝙑𝙞𝙚𝙬 𝙢𝙮 𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤</div>
 
