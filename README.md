@@ -11,8 +11,8 @@
 const aboutMe = {
     Leon: {
         student: "In high school. I want to major in computer science",
-        pronouns: 'he | him',
-        code: ['HTML', 'CSS', 'JavaScript', 'Python'],
+        pronouns: 'he | they',
+        code: ['HTML', 'CSS', 'JavaScript', 'Python', 'Java'],
         likes: {
             coding: "Started in 2021 from a friend's influence",
             listeningToMusic: ['J-Pop', 'K-Pop'],
