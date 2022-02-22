@@ -14,6 +14,7 @@ const aboutMe = {
         pronouns: 'he | they',
         code: ['HTML', 'CSS', 'JavaScript', 'Python', 'Java'],
         likes: {
+            3D-modelling: "Blender is super fun to use!"
             coding: "Started in 2021 from a friend's influence",
             listeningToMusic: ['J-Pop', 'K-Pop'],
             myFriends: "I appreciate my friends for helping me get this far!",
