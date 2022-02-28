@@ -8,7 +8,7 @@
 
 
 ```js
-const aboutMe = {
+let aboutMe = {
     Leon: {
         student: "In high school. I want to major in computer science",
         pronouns: 'he | they',
