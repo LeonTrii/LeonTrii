@@ -33,5 +33,4 @@ let aboutMe = {
 
 [![Personal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=truongmleon&repo=truongmleon.github.io&theme=buefy)](https://github.com/truongmleon/truongmleon.github.io)
 
-https://skyline.github.com/LeonTrii/2021 
 
