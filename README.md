@@ -13,6 +13,7 @@ let aboutMe = {
         student: "In high school. I want to major in computer science",
         pronouns: 'he | they',
         code: ['HTML', 'CSS', 'JavaScript', 'Python', 'Java'],
+        libraries: ['React.js'],
         preprocessors: ['SCSS', 'TypeScript'],
         likes: {
             3D-modeling: "Blender is super fun to use!",
