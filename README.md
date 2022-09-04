@@ -11,7 +11,7 @@
 <a href="https://www.leetcode.com/truongmleon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="truongmleon" height="30" width="40" /></a>
 </p>
 
-## Statistics ![byleth](https://i.kym-cdn.com/photos/images/newsfeed/002/109/107/b0a.gif)
+## Statistics 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=truongmleon&theme=buefy)](https://git.io/streak-stats)
 
