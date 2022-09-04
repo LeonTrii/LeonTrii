@@ -7,8 +7,5 @@
 
 [![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=truongmleon&show_icons=true&theme=buefy&count_private=true)](https://github.com/truongmleon) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truongmleon&layout=compact&theme=buefy)](https://github.com/truongmleon)
 
-## <div align="center">Personal Website</div>
-
-[![Personal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=truongmleon&repo=truongmleon.github.io&theme=buefy)](https://github.com/truongmleon/truongmleon.github.io)
 
 
