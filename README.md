@@ -16,7 +16,4 @@
 [![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=truongmleon&show_icons=true&theme=buefy&count_private=true)](https://github.com/truongmleon) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truongmleon&layout=compact&theme=buefy)](https://github.com/truongmleon)
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=truongmleon&show_icons=true&locale=en" alt="truongmleon" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=truongmleon&" alt="truongmleon" /></p>
