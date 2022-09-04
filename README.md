@@ -5,7 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=truongmleon&label=Profile%20views&color=0e75b6&style=flat" alt="truongmleon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=truongmleon" alt="truongmleon" /></a> </p>
+## Connections
+
+<p align="left">
+<a href="https://linkedin.com/in/truongmleon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="truongmleon" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16535849" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16535849" height="30" width="40" /></a>
+<a href="https://instagram.com/leonmmtt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonmmtt" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/truongmleon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="truongmleon" height="30" width="40" /></a>
+</p>
 
 [![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=truongmleon&show_icons=true&theme=buefy&count_private=true)](https://github.com/truongmleon) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truongmleon&layout=compact&theme=buefy)](https://github.com/truongmleon)
 
