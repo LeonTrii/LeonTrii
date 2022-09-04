@@ -1,7 +1,5 @@
 # <div align="center">你好! I'm Leon ☆*:.｡. o(≧▽≦)o .｡.:*☆</div>
 
-<img src="https://komarev.com/ghpvc/?username=truongmleon&label=Views&color=0e75b6&style=for-the-badge" alt="truongmleon" />
-
 ![image](https://user-images.githubusercontent.com/73002754/188299555-5a0943b6-3757-4f6f-b5fc-7776afaba8cb.png)
 
 ## Connections
