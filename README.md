@@ -1,6 +1,6 @@
 # <div align="center">你好! I'm Leon ☆*:.｡. o(≧▽≦)o .｡.:*☆</div>
 
-![image](https://user-images.githubusercontent.com/73002754/188301286-c3da6dfd-85e7-4ae4-8f37-5eadebb43298.png)
+![image](https://user-images.githubusercontent.com/73002754/188301310-109c75ce-65e9-4321-baa1-58681fa1786e.png)
 
 ## Connections
 
