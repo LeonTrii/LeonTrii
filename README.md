@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/73002754/188301596-f0fc6288-64c5-45f3-90c6-9d98b00b43d5.png)
 
-## Connections
+## Connections ![yamper](https://user-images.githubusercontent.com/73002754/188322526-239e28f6-b4a2-467a-a8dd-8c2dae0963d9.gif)
 
 <p align="left">
 <a href="https://linkedin.com/in/truongmleon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="truongmleon" height="30" width="40" /></a>
