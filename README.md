@@ -1,4 +1,4 @@
-# <div align="center">𝙃𝙚𝙡𝙡𝙤, 𝙄’𝙢 𝙇𝙚𝙤𝙣 ☆*:.｡. o(≧▽≦)o .｡.:*☆</div>
+# <div align="center">你好! I'm Leon ☆*:.｡. o(≧▽≦)o .｡.:*☆</div>
 
 <img width="1119" alt="Screen Shot 2021-12-25 at 1 42 26 PM" src="https://user-images.githubusercontent.com/73002754/147394045-0c724aa7-7500-4398-aefe-35c2120d715f.png">
 
@@ -30,7 +30,7 @@ let aboutMe = {
 
 [![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=truongmleon&show_icons=true&theme=buefy&count_private=true)](https://github.com/truongmleon) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truongmleon&layout=compact&theme=buefy)](https://github.com/truongmleon)
 
-## <div align="center">𝙑𝙞𝙚𝙬 𝙢𝙮 𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤</div>
+## <div align="center">Personal Website</div>
 
 [![Personal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=truongmleon&repo=truongmleon.github.io&theme=buefy)](https://github.com/truongmleon/truongmleon.github.io)
 
