@@ -13,7 +13,7 @@
 <a href="https://www.leetcode.com/truongmleon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="truongmleon" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=truongmleon&" alt="truongmleon" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=truongmleon&theme=buefy)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truongmleon&layout=compact&theme=buefy)](https://github.com/truongmleon)
 
