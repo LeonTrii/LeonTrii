@@ -11,6 +11,9 @@
 <a href="https://www.leetcode.com/truongmleon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="truongmleon" height="30" width="40" /></a>
 </p>
 
+<br>
+<br>
+
 ## Statistics <img width="39" alt="Screen Shot 2022-09-04 at 2 31 19 PM" src="https://user-images.githubusercontent.com/73002754/188334368-e2a4cfe9-8979-4265-9e5b-0cc9e34b3f1e.png">
 
 
