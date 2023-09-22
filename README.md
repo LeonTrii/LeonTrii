@@ -6,6 +6,3 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=truongmleon&theme=buefy)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truongmleon&layout=compact&theme=buefy)](https://github.com/truongmleon)
-
