@@ -4,6 +4,6 @@
 
 ## Statistics <img width="39" alt="Screen Shot 2022-09-04 at 2 31 19 PM" src="https://user-images.githubusercontent.com/73002754/188334368-e2a4cfe9-8979-4265-9e5b-0cc9e34b3f1e.png">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=truongmleon&theme=buefy&hide_border=true" alt="Github streak" />
+[![Stats](https://github-readme-streak-stats.herokuapp.com?user=truongmleon&theme=buefy&hide_border=true)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=truongmleon&theme=buefy)](https://git.io/streak-stats)
