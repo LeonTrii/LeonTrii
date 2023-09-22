@@ -4,4 +4,4 @@
 
 ## Statistics <img width="39" alt="css pixel art" src="https://user-images.githubusercontent.com/73002754/188334368-e2a4cfe9-8979-4265-9e5b-0cc9e34b3f1e.png">
 
-[![GitHub Streak](https://leonstats.vercel.app?user=truongmleon&theme=buefy&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=truongmleon&theme=buefy&hide_border=true)](https://git.io/streak-stats)
