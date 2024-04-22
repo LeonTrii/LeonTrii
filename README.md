@@ -1,6 +1,6 @@
-# <div align="center">你好! I'm Leon ☆*:.｡. o(≧▽≦)o .｡.:*☆</div>
+# <div align="center">你好, I'm Leon ☆*:.｡. o(≧▽≦)o .｡.:*☆</div>
 
-![image](https://user-images.githubusercontent.com/73002754/188301596-f0fc6288-64c5-45f3-90c6-9d98b00b43d5.png)
+![image](https://github.com/truongmleon/truongmleon/assets/73002754/5d52f0ac-9e7d-4d96-a8f3-408c579e7fe9)
 
 ## Statistics
 
