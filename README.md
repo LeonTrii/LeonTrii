@@ -1,3 +1,3 @@
 # <div align="center">你好, I'm Leon :3</div>
 
-![about me](https://github.com/truongmleon/truongmleon/assets/73002754/7ae9c033-9910-4e50-b160-313027ae1fb4)
+![About me](https://github.com/user-attachments/assets/04bb76a5-014d-4046-bee1-b1a3c6147813)
